@@ -1,1 +1,1 @@
-# Rant_Agustin_Entrega_Final_IA_Generativa
+# Link google Colab: https://colab.research.google.com/drive/1rMXzvWZBGXIIKTa_eSjjCRz1rerAhN_5?usp=sharing
